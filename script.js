@@ -18,9 +18,10 @@ const typedEl = document.getElementById('typed-text');
 
 const roles = [
   'AI/ML Student',
+  'Web Developer',
   'Python Developer',
+  'frontend developer',
   'Dashboard Builder',
-  'Backend Engineer',
   'Open to Internships'
 ];
 
